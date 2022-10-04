@@ -17,6 +17,6 @@ CPCGI : 구매자 신분 확인, 거래건 정보 확인, 거래 발생
 
 ## 연동시 변경해야할 사항:
 
-appTdbClient / inc / conf_uas.json
+appUAS / inc / conf_uas.json
 
 문의는 CPID, TID, 거래일시 등과 함꼐 tech@danal.co.kr 로 문의주시면 빠르게 처리해드리겠습니다.
