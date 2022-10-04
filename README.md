@@ -24,4 +24,6 @@ appUAS / inc / conf_uas.json
 
 더 자세한 커스텀을 원하시면 inc 디렉터리 속 Ready, CPCGI, functions 위주로 봐주세요.
 
+* 결과값으로 이름, 전화번호 등 개인정보를 받기 원하시면 영업 담당자에게 요청해주세요
+
 문의는 CPID, TID, 거래일시 등과 함꼐 tech@danal.co.kr 로 문의주시면 빠르게 처리해드리겠습니다.
